@@ -2,7 +2,7 @@
 
 ### Goals:
   - Perform EDA using groupby and show barplots based on models, transmission and fuelTypes.
-  - Answer the questions based on the analysis
+  - Resolve queries based on the analysis
   
 
 #### The dataset was collected from   https://github.com/SKawsar/Data_Visualization_with_Python/blob/main/ford.csv
